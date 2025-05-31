@@ -1,2 +1,2 @@
 # WebDevCODEALPHA
-This is for web development in Code Alpha.
+This is for web development internship in Code Alpha.
